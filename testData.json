@@ -1,0 +1,12 @@
+{
+  "key": "testData",
+  "value": null,
+  "description": null,
+  "key_re": "/ROOT/SCECC/PORTALS",
+  "children": [{
+    "key": "INTTRA",
+    "value": "ACC",
+    "description": null,
+    "children": []
+  }]
+}

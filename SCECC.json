@@ -1,0 +1,510 @@
+{
+  "key": "SCECC",
+  "value": "",
+  "description": "Sea Carrier EDI clearing center",
+  "children": [
+    {
+      "key": "vgm",
+      "value": null,
+      "description": null,
+      "children": [
+        {
+          "key": "cargosmart",
+          "value": "true",
+          "description": "Default Value if Customer have not their own VGM contract directly with CargoSmart.",
+          "children": []
+        },
+        {
+          "key": "gtnexus",
+          "value": "false",
+          "description": "Default Value if Customer have not their own VGM contract directly with GT Nexus.",
+          "children": [
+            {
+              "key": "emo",
+              "value": "true",
+              "description": "Cusomer having own contract with GT-Nexus",
+              "children": []
+            },
+            {
+              "key": "ilo",
+              "value": "true",
+              "description": "Cusomer having own contract with GT-Nexus",
+              "children": []
+            },
+            {
+              "key": "khd",
+              "value": "true",
+              "description": "Cusomer having own contract with GT-Nexus",
+              "children": []
+            },
+            {
+              "key": "lgw",
+              "value": "true",
+              "description": "Cusomer having own contract with GT-Nexus",
+              "children": []
+            },
+            {
+              "key": "sab",
+              "value": "true",
+              "description": "Cusomer having own contract with GT-Nexus",
+              "children": []
+            },
+            {
+              "key": "sjc",
+              "value": "true",
+              "description": "Cusomer having own contract with GT-Nexus",
+              "children": []
+            },
+            {
+              "key": "wst",
+              "value": "true",
+              "description": "Cusomer having own contract with GT-Nexus",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "inttra",
+          "value": "false",
+          "description": "Default Value if Customer have not their own VGM contract directly with INTTRA.",
+          "children": [
+            {
+              "key": "bkm",
+              "value": "true",
+              "description": "Cusomer having own contract with INTTRA",
+              "children": []
+            },
+            {
+              "key": "geb",
+              "value": "true",
+              "description": "Cusomer having own contract with INTTRA",
+              "children": []
+            },
+            {
+              "key": "lgw",
+              "value": "true",
+              "description": "Cusomer having own contract with INTTRA",
+              "children": []
+            },
+            {
+              "key": "plx",
+              "value": "true",
+              "description": "Cusomer having own contract with INTTRA",
+              "children": []
+            },
+            {
+              "key": "sjc",
+              "value": "true",
+              "description": "Cusomer having own contract with INTTRA",
+              "children": []
+            },
+            {
+              "key": "vnx",
+              "value": "true",
+              "description": "Cusomer having own contract with INTTRA",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "reselling",
+          "value": null,
+          "description": null,
+          "children": [
+            {
+              "key": "cargosmart",
+              "value": "false",
+              "description": "Default Value if Customer have not a VGM contract with us.",
+              "children": []
+            },
+            {
+              "key": "gtnexus",
+              "value": "false",
+              "description": "Default Value if Customer have not a VGM contract with us.",
+              "children": []
+            },
+            {
+              "key": "inttra",
+              "value": "false",
+              "description": "Default Value if Customer have not a VGM contract with us.",
+              "children": [
+                {
+                  "key": "alp",
+                  "value": "true",
+                  "description": "Riege-INTTRA eVGM reselling customer",
+                  "children": []
+                },
+                {
+                  "key": "alx",
+                  "value": "true",
+                  "description": "Riege-INTTRA eVGM reselling customer",
+                  "children": []
+                },
+                {
+                  "key": "ate-de",
+                  "value": null,
+                  "description": null,
+                  "children": [
+                    {
+                      "key": "gon",
+                      "value": "true",
+                      "description": "Riege-INTTRA eVGM reselling customer",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "key": "atp",
+                  "value": "true",
+                  "description": "Riege-INTTRA eVGM reselling customer",
+                  "children": []
+                },
+                {
+                  "key": "bms",
+                  "value": "true",
+                  "description": "Riege-INTTRA eVGM reselling customer",
+                  "children": []
+                },
+                {
+                  "key": "bra",
+                  "value": "true",
+                  "description": "Riege-INTTRA eVGM reselling customer",
+                  "children": []
+                },
+                {
+                  "key": "cet",
+                  "value": "true",
+                  "description": "Riege-INTTRA eVGM reselling customer",
+                  "children": []
+                },
+                {
+                  "key": "cmd",
+                  "value": "true",
+                  "description": "Riege-INTTRA eVGM reselling customer",
+                  "children": []
+                },
+                {
+                  "key": "emo",
+                  "value": "true",
+                  "description": "Riege-INTTRA eVGM reselling customer",
+                  "children": []
+                },
+                {
+                  "key": "esx",
+                  "value": "true",
+                  "description": "Riege-INTTRA eVGM reselling customer",
+                  "children": []
+                },
+                {
+                  "key": "ffl",
+                  "value": "true",
+                  "description": "Riege-INTTRA eVGM reselling customer",
+                  "children": []
+                },
+                {
+                  "key": "ffu",
+                  "value": "true",
+                  "description": "Riege-INTTRA eVGM reselling customer",
+                  "children": []
+                },
+                {
+                  "key": "gas",
+                  "value": "true",
+                  "description": "Riege-INTTRA eVGM reselling customer",
+                  "children": []
+                },
+                {
+                  "key": "gon-ch",
+                  "value": null,
+                  "description": null,
+                  "children": [
+                    {
+                      "key": "gon",
+                      "value": "true",
+                      "description": "Riege-INTTRA eVGM reselling customer",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "key": "gon-cz",
+                  "value": null,
+                  "description": null,
+                  "children": [
+                    {
+                      "key": "gon",
+                      "value": "true",
+                      "description": "Riege-INTTRA eVGM reselling customer",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "key": "gon-nl",
+                  "value": null,
+                  "description": null,
+                  "children": [
+                    {
+                      "key": "gon",
+                      "value": "true",
+                      "description": "Riege-INTTRA eVGM reselling customer",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "key": "got",
+                  "value": "true",
+                  "description": "Riege-INTTRA eVGM reselling customer",
+                  "children": []
+                },
+                {
+                  "key": "gtr",
+                  "value": "true",
+                  "description": "Riege-INTTRA eVGM reselling customer",
+                  "children": []
+                },
+                {
+                  "key": "hga",
+                  "value": "true",
+                  "description": "Riege-INTTRA eVGM reselling customer",
+                  "children": []
+                },
+                {
+                  "key": "iaa",
+                  "value": "true",
+                  "description": "Riege-INTTRA eVGM reselling customer",
+                  "children": []
+                },
+                {
+                  "key": "ilo",
+                  "value": "true",
+                  "description": "Riege-INTTRA eVGM reselling customer",
+                  "children": []
+                },
+                {
+                  "key": "ise",
+                  "value": "true",
+                  "description": "Riege-INTTRA eVGM reselling customer",
+                  "children": []
+                },
+                {
+                  "key": "khd",
+                  "value": "true",
+                  "description": "Riege-INTTRA eVGM reselling customer",
+                  "children": []
+                },
+                {
+                  "key": "kwe",
+                  "value": "true",
+                  "description": "Riege-INTTRA eVGM reselling customer",
+                  "children": []
+                },
+                {
+                  "key": "mil",
+                  "value": "true",
+                  "description": "Riege-INTTRA eVGM reselling customer",
+                  "children": []
+                },
+                {
+                  "key": "ntg-dk",
+                  "value": null,
+                  "description": null,
+                  "children": [
+                    {
+                      "key": "gon",
+                      "value": "true",
+                      "description": "Riege-INTTRA eVGM reselling customer",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "key": "ntg-dkp",
+                  "value": null,
+                  "description": null,
+                  "children": [
+                    {
+                      "key": "gon",
+                      "value": "true",
+                      "description": "Riege-INTTRA eVGM reselling customer",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "key": "ntg-ewr",
+                  "value": null,
+                  "description": null,
+                  "children": [
+                    {
+                      "key": "gon",
+                      "value": "true",
+                      "description": "Riege-INTTRA eVGM reselling customer",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "key": "ntg-fi",
+                  "value": null,
+                  "description": null,
+                  "children": [
+                    {
+                      "key": "gon",
+                      "value": "true",
+                      "description": "Riege-INTTRA eVGM reselling customer",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "key": "ntg-nl",
+                  "value": null,
+                  "description": null,
+                  "children": [
+                    {
+                      "key": "gon",
+                      "value": "true",
+                      "description": "Riege-INTTRA eVGM reselling customer",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "key": "ntg-uk",
+                  "value": null,
+                  "description": null,
+                  "children": [
+                    {
+                      "key": "gon",
+                      "value": "true",
+                      "description": "Riege-INTTRA eVGM reselling customer",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "key": "ntg-us",
+                  "value": null,
+                  "description": null,
+                  "children": [
+                    {
+                      "key": "gon",
+                      "value": "true",
+                      "description": "Riege-INTTRA eVGM reselling customer",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "key": "ocg",
+                  "value": "true",
+                  "description": "Riege-INTTRA eVGM reselling customer",
+                  "children": []
+                },
+                {
+                  "key": "osl",
+                  "value": "true",
+                  "description": "Riege-INTTRA eVGM reselling customer",
+                  "children": []
+                },
+                {
+                  "key": "otx",
+                  "value": "true",
+                  "description": "Riege-INTTRA eVGM reselling customer",
+                  "children": []
+                },
+                {
+                  "key": "sab",
+                  "value": "true",
+                  "description": "Riege-INTTRA eVGM reselling customer",
+                  "children": []
+                },
+                {
+                  "key": "sea",
+                  "value": "true",
+                  "description": "Riege-INTTRA eVGM reselling customer",
+                  "children": []
+                },
+                {
+                  "key": "sie",
+                  "value": "true",
+                  "description": "Riege-INTTRA eVGM reselling customer",
+                  "children": []
+                },
+                {
+                  "key": "spm",
+                  "value": "true",
+                  "description": "Riege-INTTRA eVGM reselling customer",
+                  "children": []
+                },
+                {
+                  "key": "str",
+                  "value": "true",
+                  "description": "Riege-INTTRA eVGM reselling customer",
+                  "children": []
+                },
+                {
+                  "key": "tac",
+                  "value": "true",
+                  "description": "Riege-INTTRA eVGM reselling customer",
+                  "children": []
+                },
+                {
+                  "key": "tas",
+                  "value": "true",
+                  "description": "Riege-INTTRA eVGM reselling customer",
+                  "children": []
+                },
+                {
+                  "key": "urb",
+                  "value": "true",
+                  "description": "Riege-INTTRA eVGM reselling customer",
+                  "children": []
+                },
+                {
+                  "key": "wst",
+                  "value": "true",
+                  "description": "Riege-INTTRA eVGM reselling customer",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "PORTALS",
+      "value": null,
+      "description": null,
+      "children": [
+        {
+          "key": "INTTRA",
+          "value": "Deutsch",
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "CARGOSMART",
+          "value": "english",
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "GTNEXUS",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "OCEANINSIGHTS",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    }
+  ]
+}

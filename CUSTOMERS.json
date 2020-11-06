@@ -1,0 +1,4840 @@
+{
+  "key": "CUSTOMERS",
+  "value": "",
+  "description": "All costumers of Riege Software International",
+  "children": [
+    {
+      "key": "AAC",
+      "value": null,
+      "description": "Amor Aircargo",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "AAF",
+      "value": null,
+      "description": "AAS Freight AG",
+      "children": [
+        {
+          "key": "CH",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "AAS",
+      "value": null,
+      "description": "Atlantic Airfreight Systems",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "ACA",
+      "value": null,
+      "description": "Air Cargo Alliance",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "ACD",
+      "value": null,
+      "description": "Aircargo Club Deutschland",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "ADE",
+      "value": null,
+      "description": "Adema Int. Aircargo & Logisitics",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "ADO",
+      "value": null,
+      "description": "Adoria Freight GmbH",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "AEL",
+      "value": null,
+      "description": "American Export Lines",
+      "children": [
+        {
+          "key": "US",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "AFM",
+      "value": null,
+      "description": "Active Freight Management",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "AHA",
+      "value": null,
+      "description": "a. hartrodt",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "AHT",
+      "value": null,
+      "description": "ATHS GmbH Flughafen München",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "AIR",
+      "value": null,
+      "description": "Aircargo.nl",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "AKO",
+      "value": null,
+      "description": "Akomar",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "ALB",
+      "value": null,
+      "description": "Albatros F L - Operation Stopped",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "ALP",
+      "value": null,
+      "description": "alpha trans",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "ALT",
+      "value": null,
+      "description": "ALTREX AIR & OCEAN",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "ALX",
+      "value": null,
+      "description": "ALX GmbH",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "AMI",
+      "value": null,
+      "description": "Air Menzies -",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "ANI",
+      "value": null,
+      "description": "AnimalLogistics FRA GmbH",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "ANJ",
+      "value": null,
+      "description": "Anji Logistics USA Inc.",
+      "children": [
+        {
+          "key": "US",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "APL",
+      "value": null,
+      "description": "APL Global Logistics",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "APX",
+      "value": null,
+      "description": "Apextrans",
+      "children": [
+        {
+          "key": "CH",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "ARG",
+      "value": null,
+      "description": "Argos Packaging and Protection",
+      "children": [
+        {
+          "key": "Argos",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "Packaging",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "and",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "Protection",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "ASF",
+      "value": null,
+      "description": "Air Sea Truck International GmbH",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "ATC",
+      "value": null,
+      "description": "ATC International Freight",
+      "children": [
+        {
+          "key": "2LC",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "ATP",
+      "value": null,
+      "description": "ATL Logistics",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "ATR",
+      "value": null,
+      "description": "Atrax Airfreight - No longer active (merged into SWE)",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "AUK",
+      "value": null,
+      "description": "AUK Logistics BV",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "AVI",
+      "value": null,
+      "description": "AviAir BV",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "BAR",
+      "value": null,
+      "description": "Barbican Logistics",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "BGF",
+      "value": null,
+      "description": "BG Freight Line",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "BGL",
+      "value": null,
+      "description": "Best Global Logistics (Netherlands) BV",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "BKM",
+      "value": null,
+      "description": "Berkman Forwarding B.V.",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "BKW",
+      "value": null,
+      "description": "BK Warehousing",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "BMS",
+      "value": null,
+      "description": "BMS Forwarding",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "BRA",
+      "value": null,
+      "description": "Braanker Logistics",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "BSK",
+      "value": null,
+      "description": "Blue Sky Cargo",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "BSK",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "BTS",
+      "value": null,
+      "description": "Behind the Scenes Worldwide Logistics",
+      "children": [
+        {
+          "key": "US",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "BUL",
+      "value": null,
+      "description": "Bullcon BVBA",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "CAL",
+      "value": null,
+      "description": "Caliber Global",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "CAR",
+      "value": null,
+      "description": "Cargocare",
+      "children": [
+        {
+          "key": "CH",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "CAU",
+      "value": null,
+      "description": "Cargo Unlimited",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "CBR",
+      "value": null,
+      "description": "CB Customs Broker GmbH",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "CCN",
+      "value": null,
+      "description": "Cargo Community Network PTE LTD",
+      "children": [
+        {
+          "key": "Cargo",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "Community",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "Network",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "PTE",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "LTD",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "CCS",
+      "value": null,
+      "description": "Champ Cargosystems S.A",
+      "children": [
+        {
+          "key": "Champ",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "Cargosystems",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "S.A.",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "CET",
+      "value": null,
+      "description": "CET Logistics",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "CFL",
+      "value": null,
+      "description": "Customer-First Logistics",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "CGN",
+      "value": null,
+      "description": "Cargonaut",
+      "children": [
+        {
+          "key": "Cargonaut",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "AMS",
+      "value": null,
+      "description": "Cargonaut",
+      "children": [
+        {
+          "key": "Cargonaut",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "CHO",
+      "value": null,
+      "description": "Cargo Holland",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "CHR",
+      "value": null,
+      "description": "C.H. Robinson Worldwide",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "CIF",
+      "value": null,
+      "description": "Concordia",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "CLA",
+      "value": null,
+      "description": "C.L. Contract Logistik AG",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "CLE",
+      "value": null,
+      "description": "Cleve & Zonen",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "CLO",
+      "value": null,
+      "description": "CargoLogic BV",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "CMD",
+      "value": null,
+      "description": "Cargomind",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "CML",
+      "value": null,
+      "description": "Cargo Modules",
+      "children": [
+        {
+          "key": "Cargo",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "Modules",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "CML",
+      "value": null,
+      "description": "Cargo Modules LLC",
+      "children": [
+        {
+          "key": "US",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "COD",
+      "value": null,
+      "description": "Codysur Group",
+      "children": [
+        {
+          "key": "MX",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "CPR",
+      "value": null,
+      "description": "CargoPro BV",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "CRE",
+      "value": null,
+      "description": "Cargo Regency",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "CSC",
+      "value": null,
+      "description": "Continental Shipping Corp.",
+      "children": [
+        {
+          "key": "US",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "CSL",
+      "value": null,
+      "description": "Coastlink",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "CTP",
+      "value": null,
+      "description": "CTP LOGISTIC GMBH",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "CV",
+      "value": null,
+      "description": "Cargolux",
+      "children": [
+        {
+          "key": "Cargolux",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "DAC",
+      "value": null,
+      "description": "Dachser",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "DAV",
+      "value": null,
+      "description": "DHL Aviation (NL)",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "DBR",
+      "value": null,
+      "description": "DB Cargo AG (formerly DB Schenker Rail)",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "DBS",
+      "value": null,
+      "description": "De Bree Shipping",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "DFS",
+      "value": null,
+      "description": "Direct Freight Services",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "DGL",
+      "value": null,
+      "description": "Dutch Global Logistics",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "DHA",
+      "value": null,
+      "description": "Dhatec BV",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "DHL",
+      "value": null,
+      "description": "DHL Freight",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "DIF",
+      "value": null,
+      "description": "DIF Companies, Inc.",
+      "children": [
+        {
+          "key": "US",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "DIN",
+      "value": null,
+      "description": "Dino Logistics",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "DLH",
+      "value": null,
+      "description": "Lufthansa (LCAG)",
+      "children": [
+        {
+          "key": "Lufthansa",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "(LCAG)",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "DPD",
+      "value": null,
+      "description": "Nederland",
+      "children": [
+        {
+          "key": "Nederland",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "DRO",
+      "value": null,
+      "description": "van Donge en de Roo",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "DSV",
+      "value": null,
+      "description": "DSV Air & Sea",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "DUQ",
+      "value": null,
+      "description": "DutchQargo",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "DUT",
+      "value": null,
+      "description": "DutchAir Cargo",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "DWFAIRSERVICEGMBH",
+      "value": null,
+      "description": "DE",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "EAG",
+      "value": null,
+      "description": "Eagle Air Agencies BVBA",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "EASY",
+      "value": null,
+      "description": "EASY Express",
+      "children": [
+        {
+          "key": "EASY",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "Express",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "ECC",
+      "value": null,
+      "description": "ECC Online",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "EFE",
+      "value": null,
+      "description": "EFE CONTAINER LOGISTIK GMBH",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "ELL",
+      "value": null,
+      "description": "Eastlink Logistics",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "EMO",
+      "value": null,
+      "description": "EMO",
+      "children": [
+        {
+          "key": "TRANS",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "ESH",
+      "value": null,
+      "description": "Easy Shipping",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "ESX",
+      "value": null,
+      "description": "Essex Freight Holland Ltd.",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "ETS",
+      "value": null,
+      "description": "Eurasian Transport Solutions",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "EXC",
+      "value": null,
+      "description": "Express Cargo Holland",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "EXG",
+      "value": null,
+      "description": "Excellence Global Logistics GmbH",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "EXO",
+      "value": null,
+      "description": "exporto UG",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "CH",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "FAG",
+      "value": null,
+      "description": "Fracht AG",
+      "children": [
+        {
+          "key": "CH",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "FCS",
+      "value": null,
+      "description": "Flash Cargo Service GmbH & Co.KG",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "FCZ",
+      "value": null,
+      "description": "First Class Zollservice",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "FFF",
+      "value": null,
+      "description": "Fast Forward Freight",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "CH",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "FFL",
+      "value": null,
+      "description": "Floyd and Fletcher Logistics",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "FFU",
+      "value": null,
+      "description": "Freight 4U Logistics",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "FLO",
+      "value": null,
+      "description": "Freshline Logistics",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "FLW",
+      "value": null,
+      "description": "Flowerwings Cargo",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "FLX",
+      "value": null,
+      "description": "Flexshipping BV",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "FOR",
+      "value": null,
+      "description": "Forto / FreightHub GmbH",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "FOX",
+      "value": null,
+      "description": "FOX Global Logistics",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "FRL",
+      "value": null,
+      "description": "Fregat Logistics BV",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "FRO",
+      "value": null,
+      "description": "Fröde GmbH",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "FRX",
+      "value": null,
+      "description": "Frex International BV",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "FTH",
+      "value": null,
+      "description": "Faith Freight Forwarding",
+      "children": [
+        {
+          "key": "US",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "FYC",
+      "value": null,
+      "description": "4 Your Cargo",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "GAI",
+      "value": null,
+      "description": "Spedition Gaiser GmbH",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "GAS",
+      "value": null,
+      "description": "Geis Air+Sea GmbH",
+      "children": [
+        {
+          "key": "Geis",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "Air+Sea",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "GmbH",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "GDC",
+      "value": null,
+      "description": "Gries Deco Company",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "GDF",
+      "value": null,
+      "description": "GDF Netherlands BV",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "GEB",
+      "value": null,
+      "description": "Geba Trans",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "GET",
+      "value": null,
+      "description": "General Transport",
+      "children": [
+        {
+          "key": "General",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "Transport",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "GFF",
+      "value": null,
+      "description": "Green Freight Forwarding",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "GFM",
+      "value": null,
+      "description": "Global Freight Management BV",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "GGL",
+      "value": null,
+      "description": "Golden Gate Logistics - Operation halted (temporarily)",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "GLS",
+      "value": null,
+      "description": "Global Logistics System (HK) Co. Ltd",
+      "children": [
+        {
+          "key": "Global",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "Logistics",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "System",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "(HK)",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "Co.",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "Ltd",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "GLT",
+      "value": null,
+      "description": "Global Transport Services GmbH",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "GMP",
+      "value": null,
+      "description": "Global Pet Mover Switzerland GmbH",
+      "children": [
+        {
+          "key": "CH",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "GON",
+      "value": null,
+      "description": "Gondrand",
+      "children": [
+        {
+          "key": "CH",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "GPZ",
+      "value": null,
+      "description": "GPZ Zollabfertigung",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "GRA",
+      "value": null,
+      "description": "GK Airfreight Service Gradlyn Kennels GmbH",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "US",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "GRC",
+      "value": null,
+      "description": "Grecargo",
+      "children": [
+        {
+          "key": "MX",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "GSC",
+      "value": null,
+      "description": "GENEREX",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "GTC",
+      "value": null,
+      "description": "Green Trade Company",
+      "children": [
+        {
+          "key": "MX",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "GTR",
+      "value": null,
+      "description": "Globaltrans",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "GWS",
+      "value": null,
+      "description": "Green Worldwide Shipping",
+      "children": [
+        {
+          "key": "US",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "HAF",
+      "value": null,
+      "description": "HAF Logistica",
+      "children": [
+        {
+          "key": "MX",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "HAL",
+      "value": null,
+      "description": "Hamacher Logistik BV",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "HandlingProjekte",
+      "value": null,
+      "description": "Warehouse and Trucking",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "US",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "PL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "HAS",
+      "value": null,
+      "description": "Hans Geis GmbH + Co KG Internationale Spedition",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "HEL",
+      "value": null,
+      "description": "Helveticor AG",
+      "children": [
+        {
+          "key": "CH",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "HFO",
+      "value": null,
+      "description": "Hollandia Forwarding",
+      "children": [
+        {
+          "key": "nl",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "HFT",
+      "value": null,
+      "description": "Horse Flight",
+      "children": [
+        {
+          "key": "US",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "HGA",
+      "value": null,
+      "description": "Hansa Gateway UG",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "HIC",
+      "value": null,
+      "description": "Horizon International Cargo",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "HON",
+      "value": null,
+      "description": "Honold International",
+      "children": [
+        {
+          "key": "Honold",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "International",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "HOR",
+      "value": null,
+      "description": "Hortichain BV",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "HSI",
+      "value": null,
+      "description": "Horse Service International BV",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "HTN",
+      "value": null,
+      "description": "HTNS Germany GmbH",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "HWO",
+      "value": null,
+      "description": "Heinz Wolffgramm AG - Verzollungen",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "CH",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "IAA",
+      "value": null,
+      "description": "International Airfreight Associates (IAA)",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "IAG",
+      "value": null,
+      "description": "International Airlines Group",
+      "children": [
+        {
+          "key": "International",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "Airlines",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "Group",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "IGL",
+      "value": null,
+      "description": "Integrated Global Logistics",
+      "children": [
+        {
+          "key": "US",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "IHB",
+      "value": null,
+      "description": "iHerb Inc.",
+      "children": [
+        {
+          "key": "US",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "ILO",
+      "value": null,
+      "description": "Intralog Overseas AG",
+      "children": [
+        {
+          "key": "CH",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "IQA",
+      "value": null,
+      "description": "IQargo BV",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "ISE",
+      "value": null,
+      "description": "ISEWAN EUROPE GmbH",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "ITF",
+      "value": null,
+      "description": "Rhenus Alpina AG (ehemals Interfracht Speditions AG)",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "ITG",
+      "value": null,
+      "description": "ITG GmbH",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "ITI",
+      "value": null,
+      "description": "In Time Kuriersysteme & Speditions GmbH",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "ITK",
+      "value": null,
+      "description": "Internationales Transport-Kontor",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "ITS",
+      "value": null,
+      "description": "Intermodal Transport Services",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "JDC",
+      "value": null,
+      "description": "J. Dahmen & Co.",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "JET",
+      "value": null,
+      "description": "Jet-Speed",
+      "children": [
+        {
+          "key": "HK",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "JKL",
+      "value": null,
+      "description": "JK Logistics IFF (part of FFF)",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "JOB",
+      "value": null,
+      "description": "Jobachem",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "JOR",
+      "value": null,
+      "description": "Jordex Shipping & Forwarding",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "JST",
+      "value": null,
+      "description": "Janssen Forwarding BV",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "KCA",
+      "value": null,
+      "description": "Klink Cargo",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "KDZ",
+      "value": null,
+      "description": "KDZ Express",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "KE",
+      "value": null,
+      "description": "Korean Airways",
+      "children": [
+        {
+          "key": "Korean",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "Airways",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "KHD",
+      "value": null,
+      "description": "Karl Heinz Dietrich",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "KLN",
+      "value": null,
+      "description": "Kerry Logistics",
+      "children": [
+        {
+          "key": "Kerry",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "Logistics",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "KRL",
+      "value": null,
+      "description": "Kras Logistics GmbH",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "RU",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "KTL",
+      "value": null,
+      "description": "Kaltrade Logistics",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "KUI",
+      "value": null,
+      "description": "Kuipers Air & Sea",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "KWE",
+      "value": null,
+      "description": "Kintetsu",
+      "children": [
+        {
+          "key": "Kintetsu",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "LAM",
+      "value": null,
+      "description": "Lamprecht Transport AG",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "LAR",
+      "value": null,
+      "description": "Larkin Express Logistics",
+      "children": [
+        {
+          "key": "US",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "LCS",
+      "value": null,
+      "description": "Loyal Cargo Services",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "LES",
+      "value": null,
+      "description": "Leschaco",
+      "children": [
+        {
+          "key": "???",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "LGS",
+      "value": null,
+      "description": "LOGISTICS24-7 GmbH",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "LGW",
+      "value": null,
+      "description": "Logwin Air + Ocean",
+      "children": [
+        {
+          "key": "Logwin",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "Air",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "+",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "Ocean",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "LIF",
+      "value": null,
+      "description": "Lift Freight Services",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "LIN",
+      "value": null,
+      "description": "Line",
+      "children": [
+        {
+          "key": "nl",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "LOG",
+      "value": null,
+      "description": "LOGTRANS",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "LSK",
+      "value": null,
+      "description": "LSK Cargo BV",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "LTC",
+      "value": null,
+      "description": "Logistics Training Center",
+      "children": [
+        {
+          "key": "Logistics",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "Training",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "Center",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "LUB",
+      "value": null,
+      "description": "Lubbers Logistics Group",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "LUK",
+      "value": null,
+      "description": "Lukotrans Emmen",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "LX",
+      "value": null,
+      "description": "Swiss WorldCargo",
+      "children": [
+        {
+          "key": "Swiss",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "WorldCargo",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "MAG",
+      "value": null,
+      "description": "Magusa Logistics Inc.",
+      "children": [
+        {
+          "key": "US",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "MAL",
+      "value": null,
+      "description": "Malenstein",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "BE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "MAP",
+      "value": null,
+      "description": "Mapcargo Global Logistics",
+      "children": [
+        {
+          "key": "US",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "MBS",
+      "value": null,
+      "description": "MBS Logistics US Holding Inc.",
+      "children": [
+        {
+          "key": "2",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "Letter",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "Code",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "MBS",
+      "value": null,
+      "description": "MBS Logistics US Holdings",
+      "children": [
+        {
+          "key": "US",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "MC1",
+      "value": null,
+      "description": "Multiclient 1",
+      "children": [
+        {
+          "key": "Multiclient",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "1",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "MC4",
+      "value": null,
+      "description": "Multiclient 4",
+      "children": [
+        {
+          "key": "Multiclient",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "4",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "MC5",
+      "value": null,
+      "description": "Multiclient 5",
+      "children": [
+        {
+          "key": "Multiclient",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "5",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "MC8",
+      "value": null,
+      "description": "Multiclient 8",
+      "children": [
+        {
+          "key": "Multiclient",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "8",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "MC9",
+      "value": null,
+      "description": "Multiclient 9",
+      "children": [
+        {
+          "key": "Multiclient",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "9",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "MFC",
+      "value": null,
+      "description": "Modern Freight Company",
+      "children": [
+        {
+          "key": "???",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "MFF",
+      "value": null,
+      "description": "MARX Freight Forwarding",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "MFI",
+      "value": null,
+      "description": "Moving Forward International GmbH",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "MGS",
+      "value": null,
+      "description": "M&G Switzerland",
+      "children": [
+        {
+          "key": "CH",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "MHG",
+      "value": null,
+      "description": "Millhouse Global, LLC.",
+      "children": [
+        {
+          "key": "US",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "MIL",
+      "value": null,
+      "description": "Milestone Logistics",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "MLL",
+      "value": null,
+      "description": "Milenio Logistics",
+      "children": [
+        {
+          "key": "MX",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "MPL",
+      "value": null,
+      "description": "m-p flash",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "MSE",
+      "value": null,
+      "description": "MSE Europe SA Belgium",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "MSK",
+      "value": null,
+      "description": "Moderne Speditionskonzepte",
+      "children": [
+        {
+          "key": "Moderne",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "Speditionskonzepte",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "MTR",
+      "value": null,
+      "description": "Martrade",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "MTS",
+      "value": null,
+      "description": "Marinetrans",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "MTT",
+      "value": null,
+      "description": "Move 2 Trade",
+      "children": [
+        {
+          "key": "MX",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "MYO",
+      "value": null,
+      "description": "Myon B.V.",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "NBK",
+      "value": null,
+      "description": "NBK Air & Ocean",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "NEB",
+      "value": null,
+      "description": "Neeb Air&Sea GmbH, Wuppertal",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "NIS",
+      "value": null,
+      "description": "Nissin",
+      "children": [
+        {
+          "key": "Nissin",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "NOE",
+      "value": null,
+      "description": "Noerpel",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "NTG",
+      "value": null,
+      "description": "NTG Nordic",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "CH",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "OCG",
+      "value": null,
+      "description": "OMEGAir Cargo Sp. z o.o.",
+      "children": [
+        {
+          "key": "OMEGAir",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "Cargo",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "Sp.",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "z",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "o.o.",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "OEM",
+      "value": null,
+      "description": "OEM Import",
+      "children": [
+        {
+          "key": "MX",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "OFL",
+      "value": null,
+      "description": "Operasia",
+      "children": [
+        {
+          "key": "HK",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "OHL",
+      "value": null,
+      "description": "OHL International",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "OPT",
+      "value": null,
+      "description": "Optima Global GmbH",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "OSL",
+      "value": null,
+      "description": "Orange Shipping & Logistics BV",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "OTX",
+      "value": null,
+      "description": "OTX Logistics",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "OUD",
+      "value": null,
+      "description": "Oudkerk",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "PAD",
+      "value": null,
+      "description": "Flughafen Paderborn/Lippstadt GmbH",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "PAL",
+      "value": null,
+      "description": "Pan Asia Logistics",
+      "children": [
+        {
+          "key": "2LC",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "PCF",
+      "value": null,
+      "description": "PCF Perishable Center Frankfurt GmbH",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "PFA",
+      "value": null,
+      "description": "Pfauth Logistics B.V.",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "PFL",
+      "value": null,
+      "description": "Pfister Logistik GmbH",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "PLX",
+      "value": null,
+      "description": "Plantex Expeditie BV",
+      "children": [
+        {
+          "key": "nl",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "POR",
+      "value": null,
+      "description": "Porthos GmbH",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "PPE",
+      "value": null,
+      "description": "Plane Parcel Express",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "PRI",
+      "value": null,
+      "description": "Primus Douane Expediteur BV",
+      "children": [
+        {
+          "key": "Primus",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "Douane",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "Expediteur",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "BV",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "PRL",
+      "value": null,
+      "description": "Premier Logistics",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "QCH",
+      "value": null,
+      "description": "Quality Cargo Handlers",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "QCS",
+      "value": null,
+      "description": "Quick Cargo Service B.V.",
+      "children": [
+        {
+          "key": "nl",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "RAP",
+      "value": null,
+      "description": "Rapid Logistics BV",
+      "children": [
+        {
+          "key": "nl",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "RCE",
+      "value": null,
+      "description": "Rutges Cargo Europe BV",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "RCS",
+      "value": null,
+      "description": "RM Cargo Solutions",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "RFL",
+      "value": null,
+      "description": "Rotterdam Forwarding & Logistics BV",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "RFS",
+      "value": null,
+      "description": "Remiro Freight Services",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "RIS",
+      "value": null,
+      "description": "H. Ristelhueber's Nachfolger Spedition GmbH",
+      "children": [
+        {
+          "key": "H.",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "Ristelhueber's",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "Nachfolger",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "Spedition",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "GmbH",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "RLS",
+      "value": null,
+      "description": "Ralo Shipping BV",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "RMW",
+      "value": null,
+      "description": "Rhein Main Warehouse",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "ROC",
+      "value": null,
+      "description": "ROC van Amsterdam (School)",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "ROE",
+      "value": null,
+      "description": "Roemaat Transport",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "RON",
+      "value": null,
+      "description": "Ronex",
+      "children": [
+        {
+          "key": "Ronex",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "RSC",
+      "value": null,
+      "description": "R.S.C. GmbH",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "RSI",
+      "value": null,
+      "description": "Riege Software",
+      "children": [
+        {
+          "key": "Riege",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "Software",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "RIE",
+      "value": null,
+      "description": "Riege Software",
+      "children": [
+        {
+          "key": "Riege",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "Software",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "RUT",
+      "value": null,
+      "description": "Rutges Cargo Logistics & Warehousing",
+      "children": [
+        {
+          "key": "nl",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "SAB",
+      "value": null,
+      "description": "Sable International",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "SAC",
+      "value": null,
+      "description": "Sovereign Aircargo Services",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "SAN",
+      "value": null,
+      "description": "Santrans Healthcare Service Logistics AG",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "SCH",
+      "value": null,
+      "description": "DB Schenker",
+      "children": [
+        {
+          "key": "DB",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "Schenker",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "SDV",
+      "value": null,
+      "description": "Bolloré (SDV Geis)",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "SEI",
+      "value": null,
+      "description": "Seiler Logistics AG",
+      "children": [
+        {
+          "key": "CH",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "SEK",
+      "value": null,
+      "description": "Seko Logistics",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "SEN",
+      "value": null,
+      "description": "Senator International Spedition GmbH - HDQ Hamburg",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "US",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "SET",
+      "value": null,
+      "description": "Set Air-Cargo BV",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "SFF",
+      "value": null,
+      "description": "Specialized Freight Forwarders",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "SGE",
+      "value": null,
+      "description": "Schmidt-Gevelsberg GmbH",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "SGL",
+      "value": null,
+      "description": "SMS Global Logistics",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "SIE",
+      "value": null,
+      "description": "Sieber Transport AG",
+      "children": [
+        {
+          "key": "CH",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "SIM",
+      "value": null,
+      "description": "Simex Transport and Forwarding",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "SIN",
+      "value": null,
+      "description": "Sinotrans Air Transportation GmbH",
+      "children": [
+        {
+          "key": "US",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "SIO",
+      "value": null,
+      "description": "Simply Orange",
+      "children": [
+        {
+          "key": "MX",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "SLG",
+      "value": null,
+      "description": "Cargo Service Point - Schlimgen Logistics Solutions",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "SLS",
+      "value": null,
+      "description": "Short Logistics Solutions",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "SMA",
+      "value": null,
+      "description": "Smart Logistics",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "SMD",
+      "value": null,
+      "description": "Swift Marine Denmark",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "SPA",
+      "value": null,
+      "description": "Spark Global Logistics",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "SPL",
+      "value": null,
+      "description": "DSE Logistics",
+      "children": [
+        {
+          "key": "DSE",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "Logistics",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "SPM",
+      "value": null,
+      "description": "Speedmark Transportation",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "SPR",
+      "value": null,
+      "description": "Spare Cargo Rotterdam B.V.",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "SST",
+      "value": null,
+      "description": "Sunway Shipping & Travel",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "STA",
+      "value": null,
+      "description": "Startrans Air Cargo Logistic",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "STC",
+      "value": null,
+      "description": "Scheepvaart en Transport College Rotterdam",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "STE",
+      "value": null,
+      "description": "Air & Sea Stecher Logistics",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "STL",
+      "value": null,
+      "description": "Streck Transport AG (Land)",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "CH",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "STR",
+      "value": null,
+      "description": "Streck Transport (Luft & See)",
+      "children": [
+        {
+          "key": "Streck",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "Transport",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "(Luft",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "&",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "See)",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "SWE",
+      "value": null,
+      "description": "Speedlink Worldwide Express",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "TAC",
+      "value": null,
+      "description": "2 Achieve",
+      "children": [
+        {
+          "key": "2",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "Achieve",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "TAL",
+      "value": null,
+      "description": "TRANSALL Int. Spedition",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "TBL",
+      "value": null,
+      "description": "ThreeB B.V.",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "TBU",
+      "value": null,
+      "description": "Tibbett+Britten Unique AG",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "TCL",
+      "value": null,
+      "description": "Total Care Logistics B.V.",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "TCS",
+      "value": null,
+      "description": "TCS Logistic Solutions GmbH & Co. KG",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "TDV",
+      "value": null,
+      "description": "Descartes",
+      "children": [
+        {
+          "key": "Descartes",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "TEC",
+      "value": null,
+      "description": "Teconja",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "TFS",
+      "value": null,
+      "description": "TFS Logistics",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "TGL",
+      "value": null,
+      "description": "Transglobistics B.V.",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "TGT",
+      "value": null,
+      "description": "ToGetThere BV",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "THS",
+      "value": null,
+      "description": "ths aircargo services",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "TKR",
+      "value": null,
+      "description": "Traxon Korea",
+      "children": [
+        {
+          "key": "Traxon",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "Korea",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "TKS",
+      "value": null,
+      "description": "Trucking K S",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "TK",
+      "value": null,
+      "description": "Turkish Cargo",
+      "children": [
+        {
+          "key": "Turkish",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "Cargo",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "TLO",
+      "value": null,
+      "description": "TransLog International",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "TLT",
+      "value": null,
+      "description": "Silver Tiger Logistics",
+      "children": [
+        {
+          "key": "2LC",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "TLZ",
+      "value": null,
+      "description": "TLI TransLog Zollagentur  ",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "TNT",
+      "value": null,
+      "description": "TNT Express - Special Services",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "TOD",
+      "value": null,
+      "description": "Todays Logistics",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "TOL",
+      "value": null,
+      "description": "TOLL Global Forwarding",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "TOP",
+      "value": null,
+      "description": "Top Cargo",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "TPI",
+      "value": null,
+      "description": "TP Industrial Yarns",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "TRA",
+      "value": null,
+      "description": "TransHorse",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "TRI",
+      "value": null,
+      "description": "Triton Shipping BV - Stopped contract",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "TRX",
+      "value": null,
+      "description": "Traxon Europe",
+      "children": [
+        {
+          "key": "Traxon",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "Europe",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "TTS",
+      "value": null,
+      "description": "TTS Quality Logistics",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "TWI",
+      "value": null,
+      "description": "Titan World Wide Inc.",
+      "children": [
+        {
+          "key": "US",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "TWW",
+      "value": null,
+      "description": "Ting WorldWide",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "UIS",
+      "value": null,
+      "description": "Unisys",
+      "children": [
+        {
+          "key": "Unisys",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "ULS",
+      "value": null,
+      "description": "United Logistics Services",
+      "children": [
+        {
+          "key": "US",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "URB",
+      "value": null,
+      "description": "Urban-Transporte GmbH",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "USI",
+      "value": null,
+      "description": "Usisaat",
+      "children": [
+        {
+          "key": "GL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "UTI",
+      "value": null,
+      "description": "UTi Worldwide",
+      "children": [
+        {
+          "key": "UTi",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "Worldwide",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "VCK",
+      "value": null,
+      "description": "VCK Logistics",
+      "children": [
+        {
+          "key": "NL,",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "VEL",
+      "value": null,
+      "description": "Vels BV",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "VGI",
+      "value": null,
+      "description": "Valley Group Inc.",
+      "children": [
+        {
+          "key": "US",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "VIS",
+      "value": null,
+      "description": "Vision Logistics GmbH",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "VNX",
+      "value": null,
+      "description": "VN / Xenor",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "WBF",
+      "value": null,
+      "description": "Wide Bridge Forwarding",
+      "children": [
+        {
+          "key": "PL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "WEL",
+      "value": null,
+      "description": "Welldex Logistics",
+      "children": [
+        {
+          "key": "MX",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "WIT",
+      "value": null,
+      "description": "Windmöller Flooring",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "WLS",
+      "value": null,
+      "description": "Wiedeman Logistic Solutions",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "WML",
+      "value": null,
+      "description": "WM Logistik",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "WST",
+      "value": null,
+      "description": "WESTAR Internationale Spedition GmbH",
+      "children": [
+        {
+          "key": "US",
+          "value": null,
+          "description": null,
+          "children": []
+        },
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "WST",
+      "value": null,
+      "description": "Westar International Forwarders",
+      "children": [
+        {
+          "key": "US",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "ZFR",
+      "value": null,
+      "description": "Zollfrei",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "ZLS",
+      "value": null,
+      "description": "ZL Zoll - Logistik & Schulungsagentur UG - Customer Template",
+      "children": [
+        {
+          "key": "2LC",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "ZOO",
+      "value": null,
+      "description": "ZooLogistics",
+      "children": [
+        {
+          "key": "NL",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "ZOS",
+      "value": null,
+      "description": "zoll-support GmbH",
+      "children": [
+        {
+          "key": "CH",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "ZTA",
+      "value": null,
+      "description": "ZTA Internationale Spedition",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "ZUF",
+      "value": null,
+      "description": "ZUFALL",
+      "children": [
+        {
+          "key": "DE",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "ZZZ",
+      "value": null,
+      "description": "Customer Name - Template",
+      "children": [
+        {
+          "key": "US",
+          "value": null,
+          "description": null,
+          "children": []
+        }
+      ]
+    }
+  ]
+}
